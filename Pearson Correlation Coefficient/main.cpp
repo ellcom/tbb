@@ -1,13 +1,14 @@
 //
 //  main.cpp
-//  COMP528 Assessment 1
+//  Pearson Correlation Coefficient
+//  http://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient
 //
 //  Created by Elliot Adderton on 10/03/2014.
 //
 
 // I've commented most of the document but it should be self explanatory
 
-#include "main.h"
+#include "main.hpp"
 
 // Size of the arrays
 const size_t vec_size = 500000;
